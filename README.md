@@ -1,2 +1,2 @@
 # Data-Structure-1
-Programs developed in Python for Data Structure 1 with Peinado
+Tareas y Proyectos de estructura de datos 1 
