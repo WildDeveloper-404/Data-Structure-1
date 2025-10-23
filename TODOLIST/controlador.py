@@ -44,4 +44,3 @@ class ControladorTareas:
         descripcion = texto.split("  →")[0].strip()
         self.modelo.eliminar_tarea(descripcion)
         self.actualizar_vista()
-
